@@ -1,0 +1,9 @@
+1 passo -  adicionamos uma nova classe Position
+
+	  	   adicionamos duas variaveis (coluna e linha), fizemos get e set e o ToString
+
+2 passo - Criamos 2 classes (Board e Piece)
+		  Na Board criamos uma matriz Piece que vai ser o quanto de linhas e colunas o tabuleiro vai ter
+
+3 Passo - add Enum; encapsulamento e herança; ChessPiece extends piece; downcasting
+
