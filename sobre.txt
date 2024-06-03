@@ -9,3 +9,7 @@
 
 4 passo add boardexception 
 
+5 passo add chessexception e chessPosition(para melhorar como o usuario coloca uma peça no tabuleiro)
+
+6 passo add colors para visualizar melhor
+
