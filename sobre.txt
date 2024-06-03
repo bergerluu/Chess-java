@@ -7,3 +7,5 @@
 
 3 Passo - add Enum; encapsulamento e herança; ChessPiece extends piece; downcasting
 
+4 passo add boardexception 
+
